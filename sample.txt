@@ -2,3 +2,6 @@ git-->
     staging --> files
     commit --> "first checkin"--> push to local repo
     push --> push to the cloud repo
+
+feature bindu 
+        implemented
